@@ -4,9 +4,9 @@ This is a simple starter repo for getting up and running with React, ES6 and web
 
 To get started with this repo:
 
-<pre><code>
-git clone git@github.com:edspencer/react-es6-webpack-starter.git myproject
+<pre><code>git clone git@github.com:edspencer/react-es6-webpack-starter.git myproject
 cd myproject
+npm install
 webpack
 </code></pre>
 
